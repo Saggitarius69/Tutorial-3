@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\bin\Debug\net9.0\Taskone.exe
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\bin\Debug\net9.0\Taskone.deps.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\bin\Debug\net9.0\Taskone.runtimeconfig.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\bin\Debug\net9.0\Taskone.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\bin\Debug\net9.0\Taskone.pdb
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\obj\Debug\net9.0\Taskone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\obj\Debug\net9.0\Taskone.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\obj\Debug\net9.0\Taskone.AssemblyInfo.cs
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\obj\Debug\net9.0\Taskone.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\obj\Debug\net9.0\Taskone.sourcelink.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\obj\Debug\net9.0\Taskone.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\obj\Debug\net9.0\refint\Taskone.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\obj\Debug\net9.0\Taskone.pdb
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\obj\Debug\net9.0\Taskone.genruntimeconfig.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskone\obj\Debug\net9.0\ref\Taskone.dll

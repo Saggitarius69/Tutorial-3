@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\bin\Debug\net9.0\Tasktwo.exe
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\bin\Debug\net9.0\Tasktwo.deps.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\bin\Debug\net9.0\Tasktwo.runtimeconfig.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\bin\Debug\net9.0\Tasktwo.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\bin\Debug\net9.0\Tasktwo.pdb
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\obj\Debug\net9.0\Tasktwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\obj\Debug\net9.0\Tasktwo.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\obj\Debug\net9.0\Tasktwo.AssemblyInfo.cs
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\obj\Debug\net9.0\Tasktwo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\obj\Debug\net9.0\Tasktwo.sourcelink.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\obj\Debug\net9.0\Tasktwo.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\obj\Debug\net9.0\refint\Tasktwo.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\obj\Debug\net9.0\Tasktwo.pdb
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\obj\Debug\net9.0\Tasktwo.genruntimeconfig.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasktwo\obj\Debug\net9.0\ref\Tasktwo.dll
