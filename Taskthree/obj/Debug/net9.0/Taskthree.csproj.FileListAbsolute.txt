@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\bin\Debug\net9.0\Taskthree.exe
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\bin\Debug\net9.0\Taskthree.deps.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\bin\Debug\net9.0\Taskthree.runtimeconfig.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\bin\Debug\net9.0\Taskthree.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\bin\Debug\net9.0\Taskthree.pdb
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\obj\Debug\net9.0\Taskthree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\obj\Debug\net9.0\Taskthree.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\obj\Debug\net9.0\Taskthree.AssemblyInfo.cs
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\obj\Debug\net9.0\Taskthree.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\obj\Debug\net9.0\Taskthree.sourcelink.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\obj\Debug\net9.0\Taskthree.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\obj\Debug\net9.0\refint\Taskthree.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\obj\Debug\net9.0\Taskthree.pdb
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\obj\Debug\net9.0\Taskthree.genruntimeconfig.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskthree\obj\Debug\net9.0\ref\Taskthree.dll
