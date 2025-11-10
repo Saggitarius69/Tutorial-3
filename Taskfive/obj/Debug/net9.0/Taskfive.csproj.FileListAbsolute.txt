@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\bin\Debug\net9.0\Taskfive.exe
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\bin\Debug\net9.0\Taskfive.deps.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\bin\Debug\net9.0\Taskfive.runtimeconfig.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\bin\Debug\net9.0\Taskfive.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\bin\Debug\net9.0\Taskfive.pdb
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\obj\Debug\net9.0\Taskfive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\obj\Debug\net9.0\Taskfive.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\obj\Debug\net9.0\Taskfive.AssemblyInfo.cs
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\obj\Debug\net9.0\Taskfive.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\obj\Debug\net9.0\Taskfive.sourcelink.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\obj\Debug\net9.0\Taskfive.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\obj\Debug\net9.0\refint\Taskfive.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\obj\Debug\net9.0\Taskfive.pdb
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\obj\Debug\net9.0\Taskfive.genruntimeconfig.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Taskfive\obj\Debug\net9.0\ref\Taskfive.dll
