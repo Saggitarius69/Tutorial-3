@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\bin\Debug\net9.0\Tasksix.exe
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\bin\Debug\net9.0\Tasksix.deps.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\bin\Debug\net9.0\Tasksix.runtimeconfig.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\bin\Debug\net9.0\Tasksix.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\bin\Debug\net9.0\Tasksix.pdb
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\obj\Debug\net9.0\Tasksix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\obj\Debug\net9.0\Tasksix.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\obj\Debug\net9.0\Tasksix.AssemblyInfo.cs
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\obj\Debug\net9.0\Tasksix.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\obj\Debug\net9.0\Tasksix.sourcelink.json
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\obj\Debug\net9.0\Tasksix.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\obj\Debug\net9.0\refint\Tasksix.dll
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\obj\Debug\net9.0\Tasksix.pdb
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\obj\Debug\net9.0\Tasksix.genruntimeconfig.cache
+C:\Users\ACER\Documents\.net\Tutorial Three\Tasksix\obj\Debug\net9.0\ref\Tasksix.dll
